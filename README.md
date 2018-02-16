@@ -1,6 +1,6 @@
 # Leave a note
 
-A webapp that ask users for their name and a little note for the world.
+A web app that ask users for their name and a little note for the world.
 
 Name field is not required so it can remain anonymous.
 
